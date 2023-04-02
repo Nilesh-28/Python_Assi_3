@@ -1,7 +1,7 @@
 # Assignment 3)
 LetsUpgrade Python Assignment :
 
-* Python program that asks the user to enter a number and then prints message according to following conditions -
+* Python program that asks user to enter a number and then prints message according to following conditions -
      - prints "Fizz" if the number is divisible by 3
      - prints "Buzz" if the number is divisible by 5
      - prints "FizzBuzz" if the number is divisible by both 3 and 5
